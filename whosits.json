@@ -1,0 +1,32 @@
+{
+"whosits": [
+  {
+    "name": "ball",
+    "shape": "round",
+    "color": "red",
+    "smell": "odorless",
+    "texture": "squishy"
+  },
+  {
+    "name": "fork",
+    "shape": "pronged",
+    "color": "chrome",
+    "smell": "odorless",
+    "texture": "smooth"
+  },
+  {
+    "name": "pen",
+    "shape": "long and skinny",
+    "color": "blue",
+    "smell": "odorless",
+    "texture": "smooth"
+  },
+  {
+    "name": "gear",
+    "shape": "round with nubs",
+    "color": "brown",
+    "smell": "odorless",
+    "texture": "rough"
+  }
+]
+}
