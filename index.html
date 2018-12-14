@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+<script type="application/javascript">
+    if(localStorage.getItem('accessToken') === null) {
+        window.location.href = 'login.html'
+    } else {
+        window.location.href = 'account.html'
+    }
+</script>
+</body>
+</html>
